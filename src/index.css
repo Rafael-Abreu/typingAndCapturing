@@ -39,6 +39,7 @@ body {
 }
 
 .container .valid-keys .remainder {
+  margin-right: 40px;
   opacity: 0.5;
 }
 
